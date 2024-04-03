@@ -1,7 +1,6 @@
 ## Hi there, welcome to my profile👋
 
-## Front-end developer || Currently learning React <img src="https://svgl.vercel.app/library/react.svg" alt="React Icon" width="25">
-Here are some ideas to get you started:
+## Front-end developer ~ Currently learning React <img src="https://svgl.vercel.app/library/react.svg" alt="React Icon" width="25">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
