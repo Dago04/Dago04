@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Front-end developer || Currently learning React ![React-Icon](<img src="https://svgl.vercel.app/library/react.svg" alt="React Icon" width="50">)
+## Front-end developer || Currently learning React <img src="https://svgl.vercel.app/library/react.svg" alt="React Icon" width="50">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
